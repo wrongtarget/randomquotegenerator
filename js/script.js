@@ -102,6 +102,8 @@ function printQuote (){
 
 }
 
+setInterval(function(){ printQuote(); }, 30000)
+
                              
 
                 
